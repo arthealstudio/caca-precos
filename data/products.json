@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "teclado-mecanico",
+      "label": "Teclado mecânico (switch vermelha/marrom)",
+      "queries": ["teclado mecanico switch vermelho", "teclado mecanico switch marrom", "teclado mecanico brown red switch"],
+      "targetPrice": 280,
+      "sources": ["mercadolivre", "olx", "amazon"]
+    },
+    {
+      "id": "monitor-wide",
+      "label": "Monitor ultrawide",
+      "queries": ["monitor ultrawide 34", "monitor ultrawide 29", "monitor wide edicao video"],
+      "targetPrice": 1600,
+      "sources": ["mercadolivre", "olx", "amazon"]
+    },
+    {
+      "id": "tripe",
+      "label": "Tripé profissional",
+      "queries": ["tripe camera profissional", "tripe video cabeca fluida", "tripe manfrotto benro"],
+      "targetPrice": 450,
+      "sources": ["mercadolivre", "olx"]
+    },
+    {
+      "id": "mic-camera-celular",
+      "label": "Microfone para câmera e celular",
+      "queries": ["microfone shotgun camera", "microfone rode camera", "microfone lapela celular"],
+      "targetPrice": 350,
+      "sources": ["mercadolivre", "olx", "aliexpress"]
+    },
+    {
+      "id": "iluminacao",
+      "label": "Iluminação profissional",
+      "queries": ["iluminador led video profissional", "painel led video estudio", "softbox iluminacao estudio"],
+      "targetPrice": 500,
+      "sources": ["mercadolivre", "olx", "amazon"]
+    },
+    {
+      "id": "lente-sony",
+      "label": "Lente para câmera Sony (E-mount)",
+      "queries": ["lente sony e-mount", "lente sony 50mm", "lente sony 35mm", "lente sony 16-50 usada"],
+      "targetPrice": 1500,
+      "sources": ["mercadolivre", "olx"]
+    }
+  ]
+}

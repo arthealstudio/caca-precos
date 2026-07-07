@@ -1,0 +1,6 @@
+node_modules/
+_site/
+server.log
+.DS_Store
+.env
+.github/

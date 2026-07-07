@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": "teclado-mecanico",
+      "label": "Teclado mecânico (switch vermelha/marrom)",
+      "target": 280,
+      "sources": [
+        "mercadolivre",
+        "olx",
+        "amazon"
+      ],
+      "items": [],
+      "allTimeMin": null,
+      "series": [
+        {
+          "at": "2026-07-06T23:55:16.217Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-07T00:33:04.735Z",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "monitor-wide",
+      "label": "Monitor ultrawide",
+      "target": 1600,
+      "sources": [
+        "mercadolivre",
+        "olx",
+        "amazon"
+      ],
+      "items": [],
+      "allTimeMin": null,
+      "series": [
+        {
+          "at": "2026-07-06T23:55:16.217Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-07T00:33:04.735Z",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "tripe",
+      "label": "Tripé profissional",
+      "target": 450,
+      "sources": [
+        "mercadolivre",
+        "olx"
+      ],
+      "items": [],
+      "allTimeMin": null,
+      "series": [
+        {
+          "at": "2026-07-06T23:55:16.217Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-07T00:33:04.735Z",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "mic-camera-celular",
+      "label": "Microfone para câmera e celular",
+      "target": 350,
+      "sources": [
+        "mercadolivre",
+        "olx",
+        "aliexpress"
+      ],
+      "items": [],
+      "allTimeMin": null,
+      "series": [
+        {
+          "at": "2026-07-06T23:55:16.217Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-07T00:33:04.735Z",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "iluminacao",
+      "label": "Iluminação profissional",
+      "target": 500,
+      "sources": [
+        "mercadolivre",
+        "olx",
+        "amazon"
+      ],
+      "items": [],
+      "allTimeMin": null,
+      "series": [
+        {
+          "at": "2026-07-06T23:55:16.217Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-07T00:33:04.735Z",
+          "price": null
+        }
+      ]
+    },
+    {
+      "id": "lente-sony",
+      "label": "Lente para câmera Sony (E-mount)",
+      "target": 1500,
+      "sources": [
+        "mercadolivre",
+        "olx"
+      ],
+      "items": [],
+      "allTimeMin": null,
+      "series": [
+        {
+          "at": "2026-07-06T23:55:16.217Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-07T00:33:04.735Z",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "lastRun": {
+    "at": "2026-07-07T00:33:04.735Z",
+    "running": false,
+    "sourceStatus": {
+      "mercadolivre": {
+        "ok": 19,
+        "error": null,
+        "count": 0
+      },
+      "olx": {
+        "ok": 0,
+        "error": "HTTP 403",
+        "count": 0
+      },
+      "amazon": {
+        "ok": 0,
+        "error": "Amazon não configurada — precisa API de afiliado ou proxy/Actor (ver README)",
+        "count": 0
+      },
+      "aliexpress": {
+        "ok": 0,
+        "error": "AliExpress não configurado — precisa Actor/proxy headless (ver README)",
+        "count": 0
+      }
+    }
+  }
+}
