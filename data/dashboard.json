@@ -9,188 +9,7 @@
         "olx",
         "amazon"
       ],
-      "items": [
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Gamer Kalkan Loki 60% Iluminação Rainbow Preto Inglês Internacional",
-          "price": 118,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-gamer-kalkan-loki-60-iluminaco-rainbow-preto-ingls-internacional/p/MLB51861139",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.274Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Gamer 60% Clanm Night Walker V2 RGB Switch Red ABNT2",
-          "price": 127,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-gamer-60-clanm-night-walker-v2-rgb-switch-red-abnt2/p/MLB56416088",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.275Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Gamer Mecânico Flatshop T223 QWERTY 60% com RGB e Switch Marrom",
-          "price": 149,
-          "url": "https://www.mercadolivre.com.br/teclado-gamer-mecnico-flatshop-t223-qwerty-60-com-rgb-e-switch-marrom/p/MLB53926977",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.294Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Gamer Mecânico K-mex Neonblade 60% Kjn181 Rgb Led Switch Brown Abnt2 Anti Ghosting Usb Teclas Mecânicas Usb-c Iluminado Para Pc Gamer Notebook Jogos Fps Moba Digitação Alta Durabilidade Preto",
-          "price": 159,
-          "url": "https://www.mercadolivre.com.br/teclado-gamer-mecnico-k-mex-neonblade-60-kjn181-rgb-led-switch-brown-abnt2-anti-ghosting-usb-teclas-mecnicas-usb-c-iluminado-para-pc-gamer-notebook-jogos-fps-moba-digitaco-alta-durabilidade-preto/p/MLB74546548",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.285Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Gamer 60% Rgb K-mex 61 Teclas Switch Marrom",
-          "price": 159,
-          "url": "https://www.mercadolivre.com.br/teclado-mecanico-gamer-60-rgb-kmex-61-teclas-switch-marrom/up/MLBU4158201433",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.295Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Gamdias Aura Gk2 Preto E Branco Sw Marrom Preto Português Brasil",
-          "price": 159,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-gamdias-aura-gk2-preto-e-branco-sw-marrom-preto-portugus-brasil/p/MLB26649086",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.299Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Gamer K-mex 60% ABNT2 RGB 61 Teclas Switch Marrom USB-C Anti Ghosting Compacto Transparente Translucido Cor Preto",
-          "price": 159,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-gamer-k-mex-60-abnt2-rgb-61-teclas-switch-marrom-usb-c-anti-ghosting-compacto-transparente-translucido-cor-preto/p/MLB74497244",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.299Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico TGT Sherman V3 C1 Compacto 60% Rainbow ABNT2 Switch Marrom",
-          "price": 169,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-tgt-sherman-v3-c1-compacto-60-rainbow-abnt2-switch-marrom/p/MLB54763910",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.279Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Gamer Jedel KL89 RGB Switch Marrom USB Preto Inglês",
-          "price": 179,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-gamer-jedel-kl89-rgb-switch-marrom-usb-preto-ingls/p/MLB49931348",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.271Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Fizz Rgb Preto Switch Marrom",
-          "price": 179,
-          "url": "https://www.mercadolivre.com.br/fizz-rgb-preto-switch-marrom/up/MLBU3316443274",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.293Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Redragon Gamer Fizz Rainbow Switch Brown Mecanico Cor de teclado Preto Idioma Português Brasil",
-          "price": 184,
-          "url": "https://www.mercadolivre.com.br/teclado-redragon-gamer-fizz-rainbow-switch-brown-mecanico-cor-de-teclado-preto-idioma-portugus-brasil/p/MLB22313189",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.268Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Redragon Lakshmi Rainbow Brown K606 Abnt2 Cor de teclado Preto Idioma Português Brasil",
-          "price": 199,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-redragon-lakshmi-rainbow-brown-k606-abnt2-cor-de-teclado-preto-idioma-portugus-brasil/p/MLB22808370",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.267Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Redragon Rainbow Switch Marrom Abnt 2 Lakshmi K606r",
-          "price": 199,
-          "url": "https://www.mercadolivre.com.br/teclado-redragon-rainbow-switch-marrom-abnt-2-lakshmi-k606r/up/MLBU3252082149",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.273Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Gamer Redragon Lakshmi Sunsire 60% Single Color LED Branco Switch Marrom",
-          "price": 199,
-          "url": "https://www.mercadolivre.com.br/teclado-gamer-redragon-lakshmi-sunsire-60-single-color-led-branco-switch-marrom/p/MLB21047050",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.303Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Dark Avenger Rainbow Pto Switch Marrom Abnt2",
-          "price": 213,
-          "url": "https://www.mercadolivre.com.br/dark-avenger-rainbow-pto-switch-marrom-abnt2/up/MLBU3316441500",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.304Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Redragon Teclado Gamer Mecânico 60% Branco Amarelo Switch Brown Led Branco Idioma Português Brasil",
-          "price": 227,
-          "url": "https://www.mercadolivre.com.br/redragon-teclado-gamer-mecnico-60-branco-amarelo-switch-brown-led-branco-idioma-portugus-brasil/p/MLB21388227",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.281Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Redragon Jax K613 60% Switch Marrom Preto Português Brasil",
-          "price": 240,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-redragon-jax-k613-60-switch-marrom-preto-portugus-brasil/p/MLB62507951",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.292Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Redragon Daksa Rainbow Branco E Rosa Switch Marrom Branco E Rosa Português Abnt2",
-          "price": 243,
-          "url": "https://www.mercadolivre.com.br/redragon-daksa-rainbow-branco-e-rosa-switch-marrom-branco-e-rosa-portugus-abnt2/p/MLB32131068",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.272Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico Gamer Redragon Dark Avenger, Rgb, Switch Outemu Blue, Abnt2 - K568",
-          "price": 244,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-gamer-redragon-dark-avenger-rgb-switch-outemu-blue-abnt2-k568/p/MLB14312026",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.282Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Teclado Mecânico T-Dagger Megatre Rainbow, Preto, Switch Marrom, Português Brasil",
-          "price": 244,
-          "url": "https://www.mercadolivre.com.br/teclado-mecnico-t-dagger-megatre-rainbow-preto-switch-marrom-portugus-brasil/p/MLB59223401",
-          "condition": "novo",
-          "query": "teclado mecanico switch marrom",
-          "scrapedAt": "2026-07-08T14:31:16.300Z"
-        }
-      ],
+      "items": [],
       "allTimeMin": {
         "price": 118,
         "item": {
@@ -224,6 +43,10 @@
         {
           "at": "2026-07-08T14:41:14.730Z",
           "price": 118
+        },
+        {
+          "at": "2026-07-09T15:37:58.833Z",
+          "price": null
         }
       ]
     },
@@ -258,6 +81,10 @@
         {
           "at": "2026-07-08T14:41:14.730Z",
           "price": null
+        },
+        {
+          "at": "2026-07-09T15:37:58.833Z",
+          "price": null
         }
       ]
     },
@@ -291,6 +118,10 @@
         {
           "at": "2026-07-08T14:41:14.730Z",
           "price": null
+        },
+        {
+          "at": "2026-07-09T15:37:58.833Z",
+          "price": null
         }
       ]
     },
@@ -303,188 +134,7 @@
         "olx",
         "aliexpress"
       ],
-      "items": [
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Lavalier Com Fio Omnidirecional 1.5m Cabo Preto",
-          "price": 19,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-lavalier-com-fio-omnidirecional-15m-cabo-preto/p/MLB20800316",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.104Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfones Lapela Sem Fio K9 Tipo C Para Android e iPhone USB",
-          "price": 32,
-          "url": "https://www.mercadolivre.com.br/microfones-lapela-sem-fio-k9-tipo-c-para-android-e-iphone-usb/p/MLB27851472",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.101Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Sem Fio Tipo-C Bluetooth Preto H'maston",
-          "price": 35,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-tipo-c-bluetooth-preto-hmaston/p/MLB46410951",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.097Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Sem Fio Type-C Android Celular Para Vídeos, Reels E Lives",
-          "price": 36,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-type-c-android-celular-para-videos-reels-e-lives/p/MLB65925741",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.095Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Kit 2 Microfones Lapela Sem Fio Tipo C Profissional",
-          "price": 38,
-          "url": "https://www.mercadolivre.com.br/kit-2-microfones-lapela-sem-fio-tipo-c-profissional/up/MLBU2337599341",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.092Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Kit Microfone De Lapela Sem Fio Para Vídeo",
-          "price": 47,
-          "url": "https://www.mercadolivre.com.br/microphones-interview-range-plug-and-play-built-in-battery/p/MLB2060454691",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.086Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone De Lapela Sem Fio Peining Duplo Com Receptor Usb Tipo C Cor Preto compatível com Android e IOS",
-          "price": 47,
-          "url": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-peining-duplo-com-receptor-usb-tipo-c-cor-preto-compativel-com-android-e-ios/p/MLB66668603",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.105Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Duplo Estojo Plug and Play Profissional TipoC Android iPhone15 16.",
-          "price": 49,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-duplo-estojo-plug-and-play-profissional-tipoc-android-iphone15-16/p/MLB40162392",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.089Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Duplo Sem Fio 2 Em 1 Plug And Play Cor Preto",
-          "price": 59,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-duplo-sem-fio-2-em-1-plug-and-play-cor-preto/p/MLB28905104",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.079Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela A'Gold MCF-38D Sem Fio para iPhone e Android com 2 Microfones",
-          "price": 61,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-agold-mcf-38d-sem-fio-para-iphone-e-android-com-2-microfones/p/MLB53816127",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.098Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Sem Fio Kaidi Tipo-C com IA, para Celular",
-          "price": 61,
-          "url": "https://www.mercadolivre.com.br/microfone-sem-fio-kaidi-tipo-c-com-ia-para-celular/p/MLB53227452",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.099Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Sem Fio Duplo Kaidi Profissional Imã Redondo Lightning iPhone 11 12 13 14 Gravação Celular Beexcellent",
-          "price": 63,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-duplo-kaidi-profissional-im-redondo-lightning-iphone-11-12-13-14-gravaco-celular-beexcellent/p/MLB65263027",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.097Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Anti Ruído Lapela C/ Presilhas Profissional Tipo C Preto",
-          "price": 74,
-          "url": "https://www.mercadolivre.com.br/microfone-anti-ruido-lapela-c-presilhas-profissional-tipo-c-preto/p/MLB59410708",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.100Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Duplo 2 Em 1 Profissional Type C E Lightning Para iPhone Celular Preto",
-          "price": 77,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-duplo-2-em-1-profissional-type-c-e-lightning-para-iphone-celular-preto/p/MLB54518007",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.084Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone De Lapela Sem Fio Duplo Vianova Tipo C P/ Celular",
-          "price": 78,
-          "url": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-duplo-vianova-tipo-c-p-celular/p/MLB49178571",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.092Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Duplo Anti Ruído Tipo C E Lightning iPhone",
-          "price": 82,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-duplo-anti-ruido-tipo-c-e-lightning-iphone/p/MLB2088872888",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.090Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Redondo Sem Fio Tipo-c Duplo Anti Ruído P/ Android E iPhone 15 16 17 Com Caixinha Para Carregamento Cor Preto Davely",
-          "price": 88,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-redondo-sem-fio-tipo-c-duplo-anti-ruido-p-android-e-iphone-15-16-17-com-caixinha-para-carregamento-cor-preto-davely/p/MLB73150860",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.088Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Redondo Sem Fio Tipo-c Duplo Anti Ruido",
-          "price": 89,
-          "url": "https://www.mercadolivre.com.br/microfone-lapela-redondo-sem-fio-tipoc-duplo-anti-ruido/up/MLBU3856928076",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.092Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone De Lapela Sem Fio Duplo Com Ímã - Anti-ruído.",
-          "price": 94,
-          "url": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-duplo-com-ima--antiruido/up/MLBU3974717656",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.082Z"
-        },
-        {
-          "source": "mercadolivre",
-          "title": "Microfone Lapela Redondo Anti Ruído Imã Sem Fio Tipo C Duplo",
-          "price": 95,
-          "url": "https://produto.mercadolivre.com.br/MLB-6745294496-microfone-lapela-redondo-anti-ruido-im-sem-fio-tipo-c-duplo-_JM?searchVariation=194414412074",
-          "condition": "novo",
-          "query": "microfone lapela celular",
-          "scrapedAt": "2026-07-08T14:36:56.090Z"
-        }
-      ],
+      "items": [],
       "allTimeMin": {
         "price": 19,
         "item": {
@@ -518,6 +168,10 @@
         {
           "at": "2026-07-08T14:41:14.730Z",
           "price": 19
+        },
+        {
+          "at": "2026-07-09T15:37:58.833Z",
+          "price": null
         }
       ]
     },
@@ -564,6 +218,10 @@
         {
           "at": "2026-07-08T14:41:14.730Z",
           "price": null
+        },
+        {
+          "at": "2026-07-09T15:37:58.833Z",
+          "price": null
         }
       ]
     },
@@ -597,22 +255,26 @@
         {
           "at": "2026-07-08T14:41:14.730Z",
           "price": null
+        },
+        {
+          "at": "2026-07-09T15:37:58.833Z",
+          "price": null
         }
       ]
     }
   ],
   "lastRun": {
-    "at": "2026-07-08T14:41:14.730Z",
+    "at": "2026-07-09T15:37:58.833Z",
     "running": false,
     "sourceStatus": {
       "mercadolivre": {
-        "ok": 2,
+        "ok": 0,
         "error": "This operation was aborted",
-        "count": 249
+        "count": 0
       },
       "olx": {
-        "ok": 19,
-        "error": null,
+        "ok": 18,
+        "error": "This operation was aborted",
         "count": 0
       },
       "amazon": {
