@@ -47,6 +47,10 @@
         {
           "at": "2026-07-09T15:37:58.833Z",
           "price": null
+        },
+        {
+          "at": "2026-07-10T14:54:06.531Z",
+          "price": null
         }
       ]
     },
@@ -85,6 +89,10 @@
         {
           "at": "2026-07-09T15:37:58.833Z",
           "price": null
+        },
+        {
+          "at": "2026-07-10T14:54:06.531Z",
+          "price": null
         }
       ]
     },
@@ -121,6 +129,10 @@
         },
         {
           "at": "2026-07-09T15:37:58.833Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-10T14:54:06.531Z",
           "price": null
         }
       ]
@@ -172,6 +184,10 @@
         {
           "at": "2026-07-09T15:37:58.833Z",
           "price": null
+        },
+        {
+          "at": "2026-07-10T14:54:06.531Z",
+          "price": null
         }
       ]
     },
@@ -222,6 +238,10 @@
         {
           "at": "2026-07-09T15:37:58.833Z",
           "price": null
+        },
+        {
+          "at": "2026-07-10T14:54:06.531Z",
+          "price": null
         }
       ]
     },
@@ -233,8 +253,201 @@
         "mercadolivre",
         "olx"
       ],
-      "items": [],
-      "allTimeMin": null,
+      "items": [
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony E Pz 16-50mm F/3.5-5.6 Oss Selp1650 + Nf-e * Cor Preto",
+          "price": 958,
+          "url": "https://www.mercadolivre.com.br/lente-sony-e-pz-16-50mm-f35-56-oss-selp1650-nf-e-cor-preto/p/MLB38073138",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.639Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony 16-50mm F/3.5-5.6 Oss E Mount Pz para ZV-E10",
+          "price": 1011,
+          "url": "https://www.mercadolivre.com.br/lente-sony-16-50mm-f35-56-oss-e-mount-pz-para-zv-e10/p/MLB34681217",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.636Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony 16-50mm F3.5-5.6 Oss E-mount + + Tipo De Montagem Canon Ef",
+          "price": 1059,
+          "url": "https://www.mercadolivre.com.br/lente-sony-16-50mm-f35-56-oss-e-mount-tipo-de-montagem-canon-ef/p/MLB42634195",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.649Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente De Câmera Sony E Pz 16-50mm F3.5-5.6 Oss Ii Compact",
+          "price": 1305,
+          "url": "https://www.mercadolivre.com.br/lens-sony-e-pz-16-50mm-f35-56-oss-ii-for-sony-alpha/p/MLB2038885193",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.640Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente 7artisans Af 50mm F1.8 Sony E-mount Para Zve10 Cor Preto Tipo De Montagem Sony E",
+          "price": 1440,
+          "url": "https://www.mercadolivre.com.br/lente-7artisans-af-50mm-f18-sony-e-mount-para-zve10-cor-preto-tipo-de-montagem-sony-e/p/MLB57107687",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.637Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony E Pz 16-50mm F/3.5-5.6 Oss Selp1650 + Nf-e *",
+          "price": 1470,
+          "url": "https://www.mercadolivre.com.br/lente-sony-e-pz-1650mm-f3556-oss-selp1650--nfe-/up/MLBU1962528161",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.646Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony E Pz 16-50mm F/3.5-5.6 Oss Selp1650 + Nf-e **",
+          "price": 1675,
+          "url": "https://www.mercadolivre.com.br/lente-sony-e-pz-1650mm-f3556-oss-selp1650--nfe-/up/MLBU1969518276",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.642Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony E Pz 16-50mm F/3.5-5.6 Oss - Selp1650  - C/ Nf-e",
+          "price": 1675,
+          "url": "https://www.mercadolivre.com.br/lente-sony-e-pz-1650mm-f3556-oss--selp1650---c-nfe/up/MLBU1969376756",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.648Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Fe 50mm F1.8 Standard (sel50f18f) Para Montagem E",
+          "price": 1755,
+          "url": "https://www.mercadolivre.com.br/lens-sony-fe-50mm-f18-standard-sel50f18f-for-e-mount/p/MLB2059014335",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.648Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Fe 50mm F/1.8 E-mount Full Frame",
+          "price": 1759,
+          "url": "https://www.mercadolivre.com.br/lente-sony-fe-50mm-f18-emount-full-frame/up/MLBU3754706142",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.639Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente objetiva de quadro completo Sony 50mm SEL50f18f F1.8",
+          "price": 1806,
+          "url": "https://www.mercadolivre.com.br/lente-objetiva-de-quadro-completo-sony-50mm-sel50f18f-f18/p/MLB40598869",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.638Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Alpha FE 50mm F 1.8 E-Mount Full Frame",
+          "price": 1858,
+          "url": "https://www.mercadolivre.com.br/lente-sony-alpha-fe-50mm-f-18-e-mount-full-frame/p/MLB30394915",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.637Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente De Câmera Sony Fe 50mm F/1.8 Com Cartão Sd De 64gb",
+          "price": 1869,
+          "url": "https://www.mercadolivre.com.br/camera-lens-sony-fe-50mm-f18-with-64gb-sd-card/p/MLB2040677854",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.651Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Fe 50mm F/1.8 E-mount Full Frame Pronta Entrega",
+          "price": 1899,
+          "url": "https://www.mercadolivre.com.br/lente-sony-fe-50mm-f18-emount-full-frame-pronta-entrega/up/MLBU1962926029",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.645Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Sel-50f18f E 50mm F1.8 / Lente Sony 50mm",
+          "price": 1909,
+          "url": "https://www.mercadolivre.com.br/lente-sony-sel50f18f-e-50mm-f18--lente-sony-50mm/up/MLBU1149565230",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.645Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Fe 50mm F/1.8 - Sel50f18f + Nf-e *",
+          "price": 1984,
+          "url": "https://www.mercadolivre.com.br/lente-sony-fe-50mm-f18--sel50f18f--nfe-/up/MLBU1987900161",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.645Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Fe 50mm F/1.8 E-mount Full Frame Pronta Entrega",
+          "price": 1999,
+          "url": "https://www.mercadolivre.com.br/lente-sony-fe-50mm-f18-emount-full-frame-pronta-entrega/up/MLBU2060473050",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.642Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Sel-50f18f E 50mm F1.8 / Lente Sony 50mm",
+          "price": 2032,
+          "url": "https://www.mercadolivre.com.br/lente-sony-sel50f18f-e-50mm-f18--lente-sony-50mm/up/MLBU1149478362",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.643Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Fe 50mm F1.8",
+          "price": 2100,
+          "url": "https://www.mercadolivre.com.br/lente-sony-fe-50mm-f18/up/MLBU1708175023",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.644Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Lente Sony Fe 50mm F1.8 - Nf",
+          "price": 2160,
+          "url": "https://www.mercadolivre.com.br/lente-sony-fe-50mm-f18--nf/up/MLBU1094699307",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.647Z"
+        }
+      ],
+      "allTimeMin": {
+        "price": 958,
+        "item": {
+          "source": "mercadolivre",
+          "title": "Lente Sony E Pz 16-50mm F/3.5-5.6 Oss Selp1650 + Nf-e * Cor Preto",
+          "price": 958,
+          "url": "https://www.mercadolivre.com.br/lente-sony-e-pz-16-50mm-f35-56-oss-selp1650-nf-e-cor-preto/p/MLB38073138",
+          "condition": "novo",
+          "query": "lente sony 50mm",
+          "scrapedAt": "2026-07-10T14:52:50.639Z"
+        },
+        "at": "2026-07-10T14:54:06.531Z"
+      },
       "series": [
         {
           "at": "2026-07-06T23:55:16.217Z",
@@ -259,22 +472,26 @@
         {
           "at": "2026-07-09T15:37:58.833Z",
           "price": null
+        },
+        {
+          "at": "2026-07-10T14:54:06.531Z",
+          "price": 958
         }
       ]
     }
   ],
   "lastRun": {
-    "at": "2026-07-09T15:37:58.833Z",
+    "at": "2026-07-10T14:54:06.531Z",
     "running": false,
     "sourceStatus": {
       "mercadolivre": {
-        "ok": 0,
+        "ok": 1,
         "error": "This operation was aborted",
-        "count": 0
+        "count": 144
       },
       "olx": {
-        "ok": 18,
-        "error": "This operation was aborted",
+        "ok": 19,
+        "error": null,
         "count": 0
       },
       "amazon": {
