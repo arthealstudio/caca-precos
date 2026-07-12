@@ -55,6 +55,10 @@
         {
           "at": "2026-07-11T13:52:55.937Z",
           "price": null
+        },
+        {
+          "at": "2026-07-12T13:53:00.910Z",
+          "price": null
         }
       ]
     },
@@ -101,6 +105,10 @@
         {
           "at": "2026-07-11T13:52:55.937Z",
           "price": null
+        },
+        {
+          "at": "2026-07-12T13:53:00.910Z",
+          "price": null
         }
       ]
     },
@@ -145,6 +153,10 @@
         },
         {
           "at": "2026-07-11T13:52:55.937Z",
+          "price": null
+        },
+        {
+          "at": "2026-07-12T13:53:00.910Z",
           "price": null
         }
       ]
@@ -204,6 +216,10 @@
         {
           "at": "2026-07-11T13:52:55.937Z",
           "price": null
+        },
+        {
+          "at": "2026-07-12T13:53:00.910Z",
+          "price": null
         }
       ]
     },
@@ -216,19 +232,200 @@
         "olx",
         "amazon"
       ],
-      "items": [],
-      "allTimeMin": {
-        "price": 42,
-        "item": {
+      "items": [
+        {
+          "source": "mercadolivre",
+          "title": "Luz De Vídeo Led Portátil 6500k Para Câmera Dslr",
+          "price": 20,
+          "url": "https://www.mercadolivre.com.br/luz-de-video-led-6500k-para-cmera-dslr-fotografia/p/MLB2030709448",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.302Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Luz de Preenchimento LED RGB Profissional Tomate MLG-165, Para Foto e Vídeo",
+          "price": 42,
+          "url": "https://www.mercadolivre.com.br/luz-de-preenchimento-led-rgb-profissional-tomate-mlg-165-para-foto-e-video/p/MLB52136857",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.292Z"
+        },
+        {
           "source": "mercadolivre",
           "title": "Luz De Preenchimento Rgb Led Colorido Video Foto Câmera Live",
           "price": 42,
           "url": "https://www.mercadolivre.com.br/luz-de-preenchimento-rgb-led-colorido-video-foto-camera-live/up/MLBU3873920245",
           "condition": "novo",
           "query": "painel led video estudio",
-          "scrapedAt": "2026-07-07T15:00:51.137Z"
+          "scrapedAt": "2026-07-12T13:49:58.301Z"
         },
-        "at": "2026-07-07T15:03:55.529Z"
+        {
+          "source": "mercadolivre",
+          "title": "Led Ring Light Luz 3 Cores Pedestal Tripé Gravação Vídeo",
+          "price": 49,
+          "url": "https://www.mercadolivre.com.br/led-ring-light-luz-3-cores-pedestal-tripe-gravacao-video/up/MLBU3975966171",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.320Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Luz De Preenchimento Led Rgb Para Foto Vídeo Recarregável Iluminador Portátil Retangular",
+          "price": 54,
+          "url": "https://www.mercadolivre.com.br/luz-de-preenchimento-led-rgb-para-foto-video-recarregavel-iluminador-portatil-retangular/p/MLB72809998",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.294Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Luz De Preenchimento Led Rgb Colorido Video Foto Retangular Preto Rgb",
+          "price": 54,
+          "url": "https://www.mercadolivre.com.br/luz-de-preenchimento-led-rgb-colorido-video-foto-retangular-preto-rgb/p/MLB70367627",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.295Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Painel de luz led Avant Use Ring Light 293030005",
+          "price": 57,
+          "url": "https://www.mercadolivre.com.br/painel-de-luz-led-avant-use-ring-light-293030005/p/MLB49509875",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.328Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Painel De Led Recarregável Ulanzi Vl28 Luz Vídeo Foto Stream Estrutura Branco",
+          "price": 58,
+          "url": "https://www.mercadolivre.com.br/painel-de-led-recarregavel-ulanzi-vl28-luz-video-foto-stream-estrutura-branco/p/MLB21939179",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.323Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Kit Duplo De Luz Led Usb Com Filtro Colorido Gravar Vídeos",
+          "price": 72,
+          "url": "https://www.mercadolivre.com.br/kit-duplo-de-luz-led-usb-com-filtro-colorido-gravar-videos/up/MLBU3688832405",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.315Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Mini Refletor Painel Fotografia Video Celular Camera Sem Fio",
+          "price": 75,
+          "url": "https://www.mercadolivre.com.br/mini-refletor-painel-fotografia-video-celular-camera-sem-fio/up/MLBU3719119629",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.336Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Kit Iluminador LED RGB 10W Sou Foto KLI-001 para Fotos e Vídeos USB",
+          "price": 78,
+          "url": "https://www.mercadolivre.com.br/kit-iluminador-led-rgb-10w-sou-foto-kli-001-para-fotos-e-videos-usb/p/MLB46627763",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.303Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Bastão De Luz Forte Led Rgb Para Vídeo E Foto Usb 30cm Cor da estrutura Preto",
+          "price": 112,
+          "url": "https://www.mercadolivre.com.br/basto-de-luz-forte-led-rgb-para-video-e-foto-usb-30cm-cor-da-estrutura-preto/p/MLB29507787",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.326Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Mini Luz Rgb Recarregável Vl49 Foto/vídeo Painel Led Preto",
+          "price": 139,
+          "url": "https://www.mercadolivre.com.br/mini-luz-rgb-recarregavel-vl49-fotovideo-painel-led-preto/up/MLBU4044166381",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.332Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Bastão De Luz Forte Led Rgb Para Vídeo E Foto Usb 30cm Preto Rgb",
+          "price": 149,
+          "url": "https://www.mercadolivre.com.br/basto-de-luz-forte-led-rgb-para-video-e-foto-usb-30cm-preto-rgb/p/MLB73824433",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.312Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Kit LED Duplo Sou Foto KLI-002 120 LEDs 10W USB P/ Vídeos e Fotos",
+          "price": 189,
+          "url": "https://www.mercadolivre.com.br/kit-led-duplo-sou-foto-kli-002-120-leds-10w-usb-p-videos-e-fotos/p/MLB24747380",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.298Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Mini Painel De Luz Led Ulanzi Vl49 Cor Rgb Cor da estrutura Classic black Cor da luz Branco-frio",
+          "price": 189,
+          "url": "https://www.mercadolivre.com.br/mini-painel-de-luz-led-ulanzi-vl49-cor-rgb-cor-da-estrutura-classic-black-cor-da-luz-branco-frio/p/MLB29382513",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.338Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Iluminador Led Vídeo U800 Profissional Painel Ring Light 50w",
+          "price": 219,
+          "url": "https://www.mercadolivre.com.br/iluminador-led-video-u800-profissional-painel-ring-light-50w/p/MLB67447096",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.297Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Painel de LED JINYUHAY 40W Com Tripé, Luz Bicolor Para Fotografia e Vídeo (3000K-6500K)",
+          "price": 219,
+          "url": "https://www.mercadolivre.com.br/painel-de-led-jinyuhay-40w-com-tripe-luz-bicolor-para-fotografia-e-video-3000k-6500k/p/MLB74560789",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.306Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Luz Led Vídeo Foto Fotografia Rgb 2500k Ulanzi Vl 120 Cor da estrutura Preto",
+          "price": 219,
+          "url": "https://www.mercadolivre.com.br/luz-led-video-foto-fotografia-rgb-2500k-ulanzi-vl-120-cor-da-estrutura-preto/p/MLB20627881",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.322Z"
+        },
+        {
+          "source": "mercadolivre",
+          "title": "Painel de LED Vedo U800+ 50W, Kit Profissional para Fotos e Vídeos Com Tripé",
+          "price": 243,
+          "url": "https://www.mercadolivre.com.br/painel-de-led-vedo-u800-50w-kit-profissional-para-fotos-e-videos-com-tripe/p/MLB66699772",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.308Z"
+        }
+      ],
+      "allTimeMin": {
+        "price": 20,
+        "item": {
+          "source": "mercadolivre",
+          "title": "Luz De Vídeo Led Portátil 6500k Para Câmera Dslr",
+          "price": 20,
+          "url": "https://www.mercadolivre.com.br/luz-de-video-led-6500k-para-cmera-dslr-fotografia/p/MLB2030709448",
+          "condition": "novo",
+          "query": "painel led video estudio",
+          "scrapedAt": "2026-07-12T13:49:58.302Z"
+        },
+        "at": "2026-07-12T13:53:00.910Z"
       },
       "series": [
         {
@@ -262,6 +459,10 @@
         {
           "at": "2026-07-11T13:52:55.937Z",
           "price": null
+        },
+        {
+          "at": "2026-07-12T13:53:00.910Z",
+          "price": 20
         }
       ]
     },
@@ -319,18 +520,22 @@
         {
           "at": "2026-07-11T13:52:55.937Z",
           "price": null
+        },
+        {
+          "at": "2026-07-12T13:53:00.910Z",
+          "price": null
         }
       ]
     }
   ],
   "lastRun": {
-    "at": "2026-07-11T13:52:55.937Z",
+    "at": "2026-07-12T13:53:00.910Z",
     "running": false,
     "sourceStatus": {
       "mercadolivre": {
-        "ok": 0,
+        "ok": 1,
         "error": "This operation was aborted",
-        "count": 0
+        "count": 111
       },
       "olx": {
         "ok": 19,
