@@ -1,17 +1,6 @@
 {
   "runs": [
     {
-      "at": "2026-07-07T01:46:04.544Z",
-      "results": {
-        "teclado-mecanico": [],
-        "monitor-wide": [],
-        "tripe": [],
-        "mic-camera-celular": [],
-        "iluminacao": [],
-        "lente-sony": []
-      }
-    },
-    {
       "at": "2026-07-07T15:03:55.529Z",
       "results": {
         "teclado-mecanico": [],
@@ -2216,6 +2205,17 @@
     },
     {
       "at": "2026-11-02T21:38:49.799Z",
+      "results": {
+        "teclado-mecanico": [],
+        "monitor-wide": [],
+        "tripe": [],
+        "mic-camera-celular": [],
+        "iluminacao": [],
+        "lente-sony": []
+      }
+    },
+    {
+      "at": "2026-11-03T19:23:20.769Z",
       "results": {
         "teclado-mecanico": [],
         "monitor-wide": [],
